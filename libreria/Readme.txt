@@ -1,0 +1,1 @@
+Este es mi primer modulo, es un modulo usado para la gestion de libros en Odoo
